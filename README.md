@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @BhumiChalise
+- 👀 I’m interested in doing nothing and sleeping...
+- 🌱 I’m currently learning very interesting subject ...
+- 📫 How to reach me , i also dont know...
+
+<!---
+BhumiChalise/BhumiChalise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
